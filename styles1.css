@@ -1,0 +1,74 @@
+body{
+	background-color:peachpuff;
+
+}
+h1{
+	color:steelblue;	
+}	
+h3{
+	color:yellow;
+}
+
+h2{
+	color:yellow;
+	font-weight:bold;
+	font-size:22px;
+	
+}
+.boldClass{
+	font-weight:bold;
+	font-size:18px;
+	font-family:"georgia";
+	color:saddlebrown;
+}
+#bigID{
+	font-size:24px;
+	color:saddlebrown;
+}
+
+a{
+	font-size:18px;
+	font-family:"arial";
+	color:aqua;
+}
+
+p{
+	font-family:"Arial";
+	font-size: 16px;
+	color:saddlebrown;
+}
+
+
+td{
+	font-family: "Arial";
+	font-size: 16px;
+
+
+}
+.photospacer{
+	padding-left: 225px;
+	padding-right: 150px;
+}
+
+.photospacer1{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.photospacer2{
+	padding-left: 175px;
+	padding-right: 165px;
+}
+
+.photospacer3{
+	padding-left: 20px;
+	padding-right: 165px;
+}
+.tablespacer{
+	margin-left: 325px;
+	margin-right: 90px;
+}
+
+
+	
+

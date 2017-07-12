@@ -1,0 +1,83 @@
+body{
+	background-color:tan;
+
+}
+h1{
+	color:darkgreen;	
+}	
+h3{
+	color:darkgreen;
+	font-size:20px;
+}
+
+h2{
+	color:yellow;
+	font-weight:bold;
+	font-size:22px;
+	color:yellow;
+}
+.boldClass{
+	font-weight:bold;
+	font-size:22px;
+	font-family:"arial";
+	color:darkslateblue;
+}
+#bigID{
+	font-size:24px;
+	color:saddlebrown;
+}
+
+tab
+a{
+	font-size:18px;
+	font-family:"arial";
+	color:aqua;
+}
+
+p{
+	font-family:"Arial";
+	color:saddlebrown;
+}
+
+p1{
+	font-family:"Arial";
+	color:saddlebrown;
+}
+
+p2{
+	font-family:"Arial";
+	color:saddlebrown;
+}
+
+.photospacer{
+	padding-left: 90px;
+	padding-right: 90px;
+}
+
+.photospacer2{
+	padding-left: 110px;
+	padding-right: 120px;
+}
+
+.tablespacer{
+	margin-left: 240px;
+	margin-right: 90px;
+}
+
+td{
+	font-family: "arial";
+	font-size: 18px;
+	color:saddlebrown;
+}
+
+.listspacer{
+	padding-left: 50px;
+}
+
+.listspacer1{
+	padding-left: 50px;
+}
+
+.listspacer2{
+	padding-left: 50px;
+}
