@@ -1,0 +1,39 @@
+body{
+	background-color:black;
+
+}
+h1{
+	color:blue;
+}
+h3{
+	color:yellow;
+}
+
+p{
+	color:yellow;
+	font-weight:bold;
+	font-size:16px;
+	font-family: "arial";	
+	color:fuchsia;
+
+}
+
+.indexpushmargin{
+	padding-right: 350px;
+	padding-left: 350px;
+}
+.boldClass{
+	font-weight:bold;
+	font-size:22px;
+	font-family:"Georgia";
+	color:Fuchsia;
+}
+#bigID{
+	font-size:24px;
+}
+
+a{
+	font-size:18px;
+	font-family:"Arial";
+	color:aqua;
+}

@@ -31,12 +31,12 @@ tab
 a{
 	font-size:18px;
 	font-family:"arial";
-	color:aqua;
+	color:darkgreen;
 }
 
 p{
 	font-family:"Arial";
-	color:saddlebrown;
+	color:darkgreen;
 }
 
 p1{
@@ -55,13 +55,22 @@ p2{
 }
 
 .photospacer2{
-	padding-left: 110px;
+	padding-left: 105px;
 	padding-right: 120px;
 }
 
+.photospacer22{
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.photospacer3{
+	padding-left: 0px;
+	padding-right: 95px;
+}
 .tablespacer{
-	margin-left: 240px;
-	margin-right: 90px;
+	margin-left: 125px;
+	margin-right: 125px;
 }
 
 td{
@@ -80,4 +89,8 @@ td{
 
 .listspacer2{
 	padding-left: 50px;
+}
+
+.movedownvertical{
+	padding-top: 200px;
 }
