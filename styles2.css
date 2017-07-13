@@ -94,3 +94,31 @@ td{
 .movedownvertical{
 	padding-top: 200px;
 }
+
+.journey{
+	color:darkslateblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+	margin-left: 500px;
+}
+    
+.family{
+	color:darkslateblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
+
+.hobbies{
+	color: darkslateblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
+.destination{
+	color:darkslateblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
