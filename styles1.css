@@ -69,6 +69,30 @@ td{
 	margin-right: 90px;
 }
 
+.journey{
+	color:steelblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+	margin-left: 500px;
+}
+    
+.family{
+	color:steelblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
 
-	
-
+.hobbies{
+	color: steelblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
+.destination{
+	color:steelblue;
+	padding:14px;    
+	text-decoration:none;    
+	float:left;
+}
