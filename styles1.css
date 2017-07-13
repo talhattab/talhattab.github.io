@@ -71,6 +71,7 @@ td{
 
 .journey{
 	color:steelblue;
+	font-size: 16px;
 	padding:14px;    
 	text-decoration:none;    
 	float:left;
@@ -79,6 +80,7 @@ td{
     
 .family{
 	color:steelblue;
+	font-size: 16px;
 	padding:14px;    
 	text-decoration:none;    
 	float:left;
@@ -86,12 +88,14 @@ td{
 
 .hobbies{
 	color: steelblue;
+	font-size: 16px;
 	padding:14px;    
 	text-decoration:none;    
 	float:left;
 }
 .destination{
 	color:steelblue;
+	font-size: 16px;
 	padding:14px;    
 	text-decoration:none;    
 	float:left;
